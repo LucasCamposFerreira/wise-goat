@@ -9,7 +9,7 @@
       </button>
       <button
         class="btn-header"
-        @click="openSite('https://github.com/LucasCamposFerreira/WiseGoat')"
+        @click="openSite('https://github.com/LucasCamposFerreira/wise-goat')"
       >
         Repository - Github
       </button>
